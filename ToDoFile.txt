@@ -1,0 +1,4 @@
+read chapter,1
+watch video,2
+write code,3
+upload,4
